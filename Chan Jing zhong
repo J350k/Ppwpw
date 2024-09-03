@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>主页</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">主页</a></li>
+                <li><a href="about.html">关于</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <h1>欢迎来到我们的网站</h1>
+            <p>这是主页的介绍内容。</p>
+        </section>
+
+        <section id="features">
+            <h2>我们的特点</h2>
+            <ul>
+                <li>特点1</li>
+                <li>特点2</li>
+                <li>特点3</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>版权所有 &copy; 2024</p>
+    </footer>
+</body>
+</html>
+
